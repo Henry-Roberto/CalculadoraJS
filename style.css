@@ -1,0 +1,159 @@
+body {
+background-color: rgb(74, 62, 198);
+}
+header {
+    font: normal 35pt Comic Sans MS;
+    color: white;
+    -webkit-text-stroke-width: 2px; /* largura da borda */
+    -webkit-text-stroke-color: #000; /* cor da borda */
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+div#corpo-cal {
+    background-color: rgb(123, 121, 121);
+    position: initial;
+    width: 400px;
+    height: 520px;
+    margin: auto;
+    padding-top: 15px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.389);
+    display: block;
+}
+p#p {
+    position: absolute;
+    font: normal 30pt Comic Sans MS;
+    background-color: rgb(187, 187, 187);
+    color: rgb(87, 87, 87);
+    width: 364px;
+    height:50px;
+    margin-left: 13px;
+    margin-top: 65px;
+    padding-right: 12px;
+    padding-bottom: 5px;
+    border-radius: 3px;
+    text-align: end;
+    
+}
+input {
+    font: normal 35pt Comic Sans MS;
+    background-color: rgb(187, 187, 187);
+    border-color:rgb(187, 187, 187);
+    width: 362px;
+    height: 80px;
+    margin-left: 11px;
+    margin-bottom: 30px;
+    padding-right: 12px;
+    border-radius: 3px;
+    text-align: right;
+    outline: 0;
+}
+table#bot td {
+    font: normal 25pt Comic Sans MS;
+    background-color: rgb(39, 39, 39);
+    color: white;
+    border-radius: 3px;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    padding-top: 11px;
+    margin-top: 55px;
+    margin-left: 10px;
+    display: block;
+}
+
+table#bot td.nsoma {
+    margin-top: 10px;
+    width: 77px;
+    margin-left: 20px;
+    position: absolute;
+}
+table#bot td.nsub {
+    margin-top: 8px;
+    width: 77px;
+    margin-left: 110px;
+    position: absolute;
+}
+table#bot td.nmult {
+    margin-top: 6px;
+    width: 77px;
+    margin-left: 202px;
+    position: absolute;
+}
+table#bot td.ndivi {
+    margin-top: 4px;
+    width: 76px;
+    margin-left: 295px;
+    position: absolute;
+}
+
+table#bot td.n0 {
+    margin-top: 310px;
+    margin-left: 20px;
+    position: absolute;
+}
+table#bot td.n1 {
+    margin-top: 230px;
+    margin-left: 20px;
+    position: absolute;
+}
+table#bot td.n2 {
+    margin-top: 228px;
+    margin-left: 146px;
+    position: absolute;
+}
+table#bot td.n3 {
+    margin-top: 226px;
+    margin-left: 270px;
+    position: absolute;
+}
+table#bot td.n4 {
+    margin-top: 150px;
+    margin-left: 20px;
+    position: absolute;
+}
+table#bot td.n5 {
+    margin-top: 148px;
+    margin-left: 146px;
+    position: absolute;
+}
+table#bot td.n6 {
+    margin-top: 146px;
+    margin-left: 270px;
+    position: absolute;
+}
+table#bot td.n7 {
+    margin-top: 70px;
+    margin-left: 20px;
+    position: absolute;
+}
+table#bot td.n8 {
+    margin-top: 68px;
+    margin-left: 146px;
+    position: absolute;
+}
+table#bot td.n9 {
+    margin-top: 66px;
+    margin-left: 270px;
+    position: absolute;
+}
+
+table#bot td.igual {
+    margin-top: 292px;
+    margin-left: 146px;
+    position: absolute;
+}
+table#bot td.back {
+    margin-top: 290px;
+    margin-left: 270px;
+    position: absolute;
+}
+footer {
+    text-align: center;
+    font: bold 20pt Comic Sans MS;
+    color: white;
+    -webkit-text-stroke-width: 2px; /* largura da borda */
+    -webkit-text-stroke-color: #000; /* cor da borda */
+}
